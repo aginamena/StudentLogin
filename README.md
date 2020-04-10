@@ -1,1 +1,1 @@
-"# StudentLoginApp" 
+This application allows students to login with their student id and password (first and last name) to view their information. The information of the students,include first and last name, student id, email, phone number, address and date of brith. These information will be stored in a database by the Admin. The admin can view all the students registered in the database with their information. 
